@@ -1,1 +1,1 @@
-# Funçes simples e uteis para array
+# Funções simples e uteis para array
